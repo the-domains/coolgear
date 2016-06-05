@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CoolGear]]></title>
+        <description><![CDATA[CoolGear]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 21:48:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb953d3-0140-48f7-93e0-f2c71fe355db.jpg">]]></description>
+            <link>undefinedtee-shirts-with-cool-designs-that-reflect-who-you-are-stron/index.html</link>
+            <guid isPermaLink="false">7f1d8ce8-d3f3-4166-953b-e29e3f5f7e08</guid>
+            <pubDate>Sun, 05 Jun 2016 21:47:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
